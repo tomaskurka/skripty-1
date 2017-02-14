@@ -1,0 +1,2 @@
+echo $text | awk -F ":" '{print $2}'
+
